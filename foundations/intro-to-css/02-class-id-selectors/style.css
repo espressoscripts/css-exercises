@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.impar{
+	background-color: #ffb6c1;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#unique{
+    font-size: 36px;
+    color: #0000FF;
+}
+
+#another{
+    font-size: 24px;
+    background-color: #4ffa4f;
+    font-weight: bold;
+}
