@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.clase-uno, .clase-dos {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.clase-uno {
+    background-color: black;
+    color: white;
+}
+
+.clase-dos {
+    background-color: yellow;
+    color: black;
+}
+
+
+.contenedor {
+    text-align: center;
+    margin-top: 50px;
+}
